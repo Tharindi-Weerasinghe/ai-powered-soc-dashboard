@@ -108,49 +108,49 @@ The following lab security events were generated and analyzed:
 
 ### 1. Wazuh Dashboard Overview
 
-![Wazuh Dashboard Overview](assets/screenshots/01_wazuh_dashboard_overview.jpeg)
+![Wazuh Dashboard Overview](assets/screenshots/01_wazuh_dashboard_overview.png)
 
 ---
 
 ### 2. Wazuh Agent Connected
 
-![Wazuh Agent Connected](assets/screenshots/02_wazuh_agent_connected.jpeg)
+![Wazuh Agent Connected](assets/screenshots/02_wazuh_agent_connected.png)
 
 ---
 
 ### 3. First Security Alert
 
-![First Security Alert](assets/screenshots/03_first_security_alert.jpeg)
+![First Security Alert](assets/screenshots/03_first_security_alert.png)
 
 ---
 
 ### 4. SSH Failed Login Alert
 
-![SSH Failed Login Alert](assets/screenshots/04_ssh_failed_login_alert.jpeg)
+![SSH Failed Login Alert](assets/screenshots/04_ssh_failed_login_alert.png)
 
 ---
 
 ### 5. File Integrity Monitoring Alert
 
-![File Integrity Monitoring Alert](assets/screenshots/05_file_integrity_monitoring_alert.jpeg)
+![File Integrity Monitoring Alert](assets/screenshots/05_file_integrity_monitoring_alert.png)
 
 ---
 
 ### 6. Custom SOC Dashboard
 
-![Custom SOC Dashboard](assets/screenshots/06_custom_soc_dashboard_v1.jpeg)
+![Custom SOC Dashboard](assets/screenshots/06_custom_soc_dashboard_v1.png)
 
 ---
 
 ### 7. AI Analyst Triage
 
-![AI Analyst Triage](assets/screenshots/07_ai_triage_section.jpeg)
+![AI Analyst Triage](assets/screenshots/07_ai_triage_section.png)
 
 ---
 
 ### 8. PDF Incident Report Output
 
-![PDF Incident Report Output](assets/screenshots/08_incident_report_pdf_output.jpeg)
+![PDF Incident Report Output](assets/screenshots/08_incident_report_pdf_output.png)
 
 ---
 
@@ -232,14 +232,14 @@ ai-powered-soc-dashboard/
 ├── .gitignore
 ├── assets/
 │   └── screenshots/
-│       ├── 01_wazuh_dashboard_overview.jpeg
-│       ├── 02_wazuh_agent_connected.jpeg
-│       ├── 03_first_security_alert.jpeg
-│       ├── 04_ssh_failed_login_alert.jpeg
-│       ├── 05_file_integrity_monitoring_alert.jpeg
-│       ├── 06_custom_soc_dashboard_v1.jpeg
-│       ├── 07_ai_triage_section.jpeg
-│       └── 08_incident_report_pdf_output.jpeg
+│       ├── 01_wazuh_dashboard_overview.png
+│       ├── 02_wazuh_agent_connected.png
+│       ├── 03_first_security_alert.png
+│       ├── 04_ssh_failed_login_alert.png
+│       ├── 05_file_integrity_monitoring_alert.png
+│       ├── 06_custom_soc_dashboard_v1.png
+│       ├── 07_ai_triage_section.png
+│       └── 08_incident_report_pdf_output.png
 └── venv/
 ```
 
